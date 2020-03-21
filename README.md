@@ -2,8 +2,8 @@
 ## Dataset is taken from https://github.com/ieee8023/covid-chestxray-dataset
 
 ### Used InceptionRESNet v2 for classification with cosine loss function.
-Images Labeled as "Covid-19" are labeled as positive.
-and others are (MERS, SARS, ARDS. Bacterial Pneumonia, no findings, Pneumonia) are labeled as negetive.
+Images marked as "Covid-19" are labeled for positive (121 images).
+and others are (MERS, SARS, ARDS. Bacterial Pneumonia, no findings, Pneumonia) are labeled for negetive (25 images).
 
 ## Result
 
