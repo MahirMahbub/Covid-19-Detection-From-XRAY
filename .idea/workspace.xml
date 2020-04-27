@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="184d2fa6-fbcb-45b1-ba4f-113517587623" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WebServer/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebServer/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebServer/templates/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/COVID_Pred/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/COVID_Pred/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/predApp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/predApp/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/predApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/predApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebServer/templates/covid.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebServer/templates/covid.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b7zetYXWyPjRxW4MZRJrjK58C1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="184d2fa6-fbcb-45b1-ba4f-113517587623" name="Default Changelist" comment="" />
+      <created>1587998018342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587998018342</updated>
+      <workItem from="1587998043399" duration="23000" />
+    </task>
+    <servers />
+  </component>
+</project>
